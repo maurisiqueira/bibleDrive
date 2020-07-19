@@ -1,0 +1,27 @@
+*{
+    margin: 0 auto;
+}
+.logon-area{
+    width: 50px;
+    text-align: center;
+}
+
+.field > label{
+    text-align: left;
+}
+
+.title {
+    width: 35%;
+    position: relative;
+    left: 30%;
+}
+
+.button{
+    margin: 0 auto;
+}
+
+.fb-login-button{
+    position: relative;
+    left: 42%;
+    text-align: center;
+}
